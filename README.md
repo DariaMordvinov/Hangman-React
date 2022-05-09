@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Hangman on React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a classic Hangman game, written with React library. User has 6 mistakes to make. 
 
 ## Available Scripts
 
